@@ -1,0 +1,29 @@
+**Investigation 2 Procedure**
+
+1. Determine the mass of a 1-2 gram sample of brass to +/- 0.001 g. Place the sample in a small beaker.
+
+2. Assuming your brass sample is 100 percent copper by mass, calculate the minimum volume of concentrated 15.8 M HNO<sub>3</sub>(*aq*) that needs to be added to react completely with the brass. Under the fume hood, have your teacher add approximately 2 mL more than this volume of 15.8 M HNO<sub>3</sub> (*aq*) so that the acid is in excess, and then your teacher will cover the beaker with a watch glass.
+
+	> Cu(*s*) + 4HNO<sub>3</sub> (*aq*) -> Cu(NO<sub>3</sub>)<sub>2</sub> (*aq*) + 2NO<sub>2</sub>(*g*) + 2H<sub>2</sub>O(*l*) 
+	> 2g Cu(*s*) x (1 mol Cu(*s*) / 63.5 g/mol) x (4 mol HNO<sub>3</sub>(*aq*) / 1 mol Cu(*s*)) x (1.0 L / 15.8 mol HNO<sub>3</sub>) = **0.00797L = 7.97mL or approximately 8mL 15.8M HNO<sub>3</sub>**
+	> 
+3. After the metal dissolves completely, add 50 mL of distilled water to the beaker (**again, your teacher will perform this part of the investigation**). Then you will remove the beaker from the fume hood and transfer the solution to a 100 mL volumetric flask. Rinse the beaker 3-4 times with 5 mL of distilled water and add the washings to the flask. Dilute to a final volume of 100.0 mL. The excess nitric acid will dissolve the zinc and copper metals in the brass.
+
+4. Obtain 10.0 mL of 0.400 M Cu(NO<sub>3</sub>)<sub>2</sub> (*aq*) stock solution in a 10 mL graduated cylinder. Determine what volume is required to make 10.00 mL of 0.200 M Cu(NO<sub>3</sub>)<sub>2</sub> (*aq*). Use a volumetric pipette to transfer this volume of the stock solution into a clean test tube. Then add a sufficient amount of distilled water to reach 10.00 mL. Thoroughly mix the solution. Repeat the dilution process to make 10.0 mL each of three more additional dilute solutions that are 0.100 M, 0.0500 M, and 0.0250 M, respectively. Have your instructor verify your dilution calculations!
+
+5. Based upon the results of the prelab experimentation, set the wavelength of the SPEC 20 to that which is strongly absorbed by the blue-coloured Cu<sup>2+</sup> solutions. Ideally, the maximum absorbance value should be ≤ 1. Since absorbance is a logarithmic function of the percent transmittance, the instrument is in a nonlinear region to measure the light passing through when the absorbance value is at a range of 1-2. When selecting a wavelength for measurement, keep in mind that a wavelength at maximum absorbance provides maximum sensitivity but the smallest concentration range, while a wavelength with a smaller absorbance would provide less sensitivity but a larger concentration range to be measured in the experiment. Have your teacher approve of your selected wavelength before you continue with the next step.
+
+6. Calibrate the SPEC 20 to read 0% transmittance with no cuvette in the instrument, and 100% transmittance with a blank inside (cuvette filled with distilled water).
+
+7. Empty the water from the "blank" cuvette. Using the most dilute Cu(NO3)2 standard solution, rinse the cuvette twice with ~1 mL amounts and then fill it three-quarters full. Wipe the outside with a tissue, place it in the SPEC 20, and close the lid. Read and record the absorbance value. Discard the cuvette contents back into the original test tube.
+
+8. Continue testing the other solutions, starting with the most dilute Cu(NO<sub>3</sub>)<sub>2</sub> to the most concentrated (0.400 M). Finally, determine the absorbance value of the unknown Cu(NO<sub>3</sub>)<sub>2</sub> solution from your brass sample. Using the absorbance and concentration values for the five standard solutions, prepare a graph of the absorbance (y) versus the concentration (x) values. Draw a best-fit straight line for your data and calculate the slope and y-intercept for Beer's plot. Then determine the concentration of your unknown brass solution. This is a good opportunity to use a spreadsheet program to plot the data and perform a linear regression.
+
+9. Use a visual comparison test to also determine the concentration of the unknown solution. The amount of light absorbed by the solution is directly related to its concentration and the depth of the solution through which the light passes. By comparing the depth of two solutions with the same colour intensity, the molarity of an unknown solution can be determined based upon the known concentration of the other solution. 
+
+> The intensity of the colour of a solution in a test tube depends upon both the concentration of the solution and the depth of solution in the tube. A higher concentration of the coloured solution has a darker, more intense colour than a solution of lower concentration. The greater the depth of a solution in a tube, the more particles there are to absorb the light between the light source and they eye. This makes the colour appear to be more intense. To determine the concentration (molarity) of an unknown solution, place it in a test tube on top of a piece of white paper, next to a test tube filled with a solution of known concentration (molarity). While visually comparing the colour intensity of each tube, use a pipette to remove liquid from the more concentrated solution until the intensities appear to be the same. At this point, the following relationship applies:
+**(Molarity1) (Depth1) = (Molarity2) (Depth2)**
+
+10. Fill a 16 x 150 mm test tube with the unknown brass solution. Use your standard 0.400 M Cu(NO<sub>3</sub>)<sub>2</sub> to fill a second 16 x 150 mm test tube to a depth where the colour intensity appears to match that of the unknown. Calculate the molarity of the unknown based upon this visual comparison method and compare to the molarity determined by the SPEC 20.
+
+11. Dispose of all solutions as directed by your teacher. Rinse the cuvettes with distilled water. Return all equipment to your teacher for final approval.
